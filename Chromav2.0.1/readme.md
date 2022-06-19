@@ -10,6 +10,6 @@ Chroma APP 安卓应用软件
     - 滤镜
 - 界面展示
   - 主界面
-    - ![image-20220619200957824](imgs/readme/image-20220619200957824.png)
-      - 预览界面
-        - ![image-20220619201626061](imgs/readme/image-20220619201626061.png)
+    - ![](https://s1.328888.xyz/2022/06/19/0OxX3.png)
+  - 预览界面
+    - ![0OEMQ.png](https://s1.328888.xyz/2022/06/19/0OEMQ.png)
